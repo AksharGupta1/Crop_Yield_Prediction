@@ -6,9 +6,7 @@ A machine learning-based web application built with Streamlit to recommend suita
 This project uses pre-trained machine learning models to predict suitable crops for a given district/state.
 
 ## 🚀 Live Demo
-https://unverbalized-geoffrey-subspirally.ngrok-free.dev/
-
-> Note: This demo is hosted via ngrok on Google Colab and may become unavailable when the Colab session ends.
+(http://akshargupta1-crop-yield-prediction-app-k4uryd.streamlit.app/)
 
 ## 🛠 Tech Stack
 - Python
