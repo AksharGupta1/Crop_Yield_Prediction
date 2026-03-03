@@ -79,6 +79,16 @@ Each crop has a separate model trained using historical environmental and yield 
 
 ---
 
+## 📊 Model Performance
+
+<p align="center">
+  <img src="images/model_performance.png" width="750">
+</p>
+
+The models were evaluated using standard regression metrics such as R², RMSE, and MAE across crops.
+
+---
+
 ## 💻 Application Logic
 
 A local Streamlit-based web application was built.
