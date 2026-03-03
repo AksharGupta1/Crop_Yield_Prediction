@@ -1,4 +1,4 @@
-# 🌾 Crop Yield Prediction & Crop Suitability Recommendation System
+# 🌾 Crop Yield Prediction System
 
 ## 📌 Project Overview
 
