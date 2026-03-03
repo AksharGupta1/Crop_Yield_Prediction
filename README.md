@@ -14,6 +14,12 @@ It helps identify which crop is best suited (yield-wise) for given Kharif enviro
 
 ---
 
+## 📷 Application Preview
+
+![Crop Recommendation App](images/app_preview.png)
+
+---
+
 ## 📊 Data Sources
 
 ### 🛰 Environmental Data (Google Earth Engine)
