@@ -85,7 +85,7 @@ Each crop has a separate model trained using historical environmental and yield 
   <img src="images/model_performance.png" width="750">
 </p>
 
-The models were evaluated using standard regression metrics such as R², RMSE, and MAE across crops.
+The models were evaluated using standard regression metrics such as R², RMSE, training time, and model size across crops.
 
 ---
 
